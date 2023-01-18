@@ -4,7 +4,7 @@ Source code for the `DisKeyword` demo paper. `DisKeyword` helps you search for t
 
 ## Quick Start
 
-To get started directly and try out `DisKeyword`, use this [online demo](https://sachalevy-diskeyword-streamlit-app-0smb8j.streamlitapp.com) with sample datasets [uploaded here](https://drive.google.com/drive/folders/10eHg67mk3tKa5OrAS0nBVSVMXq7LhT7t?usp=sharing).
+To get started directly and try out `DisKeyword`, use this [online demo](https://diskeyword.streamlit.app) with sample datasets [uploaded here](https://drive.google.com/drive/folders/10eHg67mk3tKa5OrAS0nBVSVMXq7LhT7t?usp=sharing).
 
 To run the demo locally, clone this project, and setup your python environment:
 ```bash
